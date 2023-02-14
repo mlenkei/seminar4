@@ -73,3 +73,6 @@
 Сделать ветку локальную ветку serverfix отслеживаемой
 
     $ git branch -u origin/serverfix
+Посмотреть отслеживаемые ветки
+    
+    $ git branch –vv
